@@ -79,7 +79,7 @@ Une application web moderne pour créer des affiches visuelles interactives. Éd
 
 ### 1. Clonage du Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/Kazuyoshi-06/poster-editor.git
 cd poster-editor-app
 ```
 
@@ -290,11 +290,11 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 ## 📞 Support
 
 Pour toute question ou problème :
-- 📧 **Email** : [votre-email@exemple.com]
-- 🐛 **Issues** : [GitHub Issues](https://github.com/username/poster-editor-app/issues)
-- 📖 **Documentation** : [Wiki](https://github.com/username/poster-editor-app/wiki)
+- 📧 **Email** : kazuyoshi.perso@gmail.com
+- 🐛 **Issues** : [GitHub Issues](https://github.com/Kazuyoshi-06/poster-editor/issues)
+- 📖 **Documentation** : [Wiki](https://github.com/Kazuyoshi-06/poster-editor/wiki)
 
 ---
 
-**Développé avec ❤️ pour la communauté Yu-Gi-Oh et les créateurs d'événements**</content>
+**© 2026 Kazuyoshi - Poster Editor App**</content>
 <filePath">c:\Projects\poster_editor_app\poster_editor_app\README.md

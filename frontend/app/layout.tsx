@@ -47,7 +47,10 @@ export default function RootLayout({
       className={`${inter.variable} ${bebasNeue.variable} ${oswald.variable} ${montserrat.variable} h-full`}
       suppressHydrationWarning
     >
-      <body className="h-full bg-[#0f0f0f] text-white antialiased">
+      <body 
+        className="h-full bg-[#0f0f0f] text-white antialiased"
+        suppressHydrationWarning
+      >
         <TooltipProvider>
           {children}
           <Toaster theme="dark" position="bottom-right" richColors />
